@@ -1,3 +1,4 @@
+// Marina.Y & Kengo
 import java.util.Random;
 import java.util.Scanner;
 
